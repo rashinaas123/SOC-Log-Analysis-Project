@@ -1,0 +1,21 @@
+SOC INCIDENT SUMMARY
+
+Incident Type: Multiple Failed Login Attempts
+
+Source IP: 192.168.1.20
+
+Target User: student
+
+Total Failed Attempts: 3
+
+Severity: Medium
+
+Observation:
+Three failed login attempts were detected
+from the same IP address.
+
+Recommendation:
+Monitor the source IP and investigate
+further login activity.
+
+Status: Under Investigation
